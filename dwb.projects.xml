@@ -1,0 +1,5 @@
+<dwb-workbench>
+    <project name="libfoo" path="src\libfoo" />
+    <project name="helloworld" path="src\helloworld" />
+</dwb-workbench>
+

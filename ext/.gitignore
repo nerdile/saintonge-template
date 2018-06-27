@@ -1,0 +1,17 @@
+# Include built contents in ext/
+![Dd]ebug/
+![Dd]ebugPublic/
+![Rr]elease/
+![Rr]eleases/
+!x64/
+!x86/
+!bld/
+!build/
+![Bb]in/
+![Oo]bj/
+![Ll]og/
+
+# Exclude ingested publics
+*.exe
+lib/
+

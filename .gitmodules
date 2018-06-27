@@ -1,0 +1,4 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/nerdile/saintonge
+	branch = rel/1
